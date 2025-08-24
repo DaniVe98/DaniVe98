@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @DaniVe98, I am from Bogotá, Colombia.
-- 👀 I’m interested in learning about Technology industry and all related about software development.
-- 🌱 I’m currently learning advanced English and Frontend Developer tools at Platzi and Udemy.
-- 💞️ I’m looking to get new professional opportunities.
-- 📫 How to reach me danielalbertovegabejarano@gmail.com
-
-<!---
-DaniVe98/DaniVe98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Daniel Vega, Frontend Developer from Bogotá, Colombia.  
+💻 I have 2+ years of professional experience building web applications with JavaScript, React, HTML, CSS, and C# (Umbraco CMS).  
+🌱 I’m always learning and improving my skills in modern frontend frameworks, best practices, and clean code.  
+⚡ I’ve built and deployed several personal and professional projects using React, Tailwind, APIs, and state management tools.  
+💼 Currently, I’m looking for new opportunities where I can grow as a developer and contribute to impactful projects.  
+📫 Reach me at: danielalbertovegabejarano@gmail.com
